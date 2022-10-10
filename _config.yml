@@ -13,6 +13,9 @@ minima:
 
   # generate social links in footer
   social_links:
+    youtube: Notmyfirst
+    youtube_channel: UCwykxvVYWAcK8BJ0N2b4QYg
+    youtube_channel_name: Notmyfirst
     # twitter: jekyllrb
     # github:  jekyll
     # devto: jekyll
@@ -22,10 +25,6 @@ minima:
     # instagram: jekyll
     # linkedin: jekyll
     # pinterest: jekyll
-    youtube: Notmyfirst
-    youtube_channel: UCwykxvVYWAcK8BJ0N2b4QYg
-    youtube_channel_name: Notmyfirst
-    
 
     # Mastodon instances
     # mastodon:
